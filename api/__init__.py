@@ -1,0 +1,1 @@
+"""API application providing REST endpoints for real estate analysis."""
